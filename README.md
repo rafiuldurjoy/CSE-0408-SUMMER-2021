@@ -1,5 +1,5 @@
 # CSE-0408-SUMMER-2021
-This is a Artificial intelligence lab repository
+This is a Artificial intelligence lab Repository
 
 Name: Md.Rafiul Alam Durjoy
 
